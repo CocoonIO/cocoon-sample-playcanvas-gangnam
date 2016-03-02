@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget id="io.cocoon.template.playcanvas.gangnam" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cocoon="http://cocoon.io/ns/1.0">
-    <name>WebGL Horse</name>
+    <name>PlayCanvas Gangnam</name>
     <description>
 Three monsters from Doom3 dancing to the sound of Gangnam Style. Note: this demo can be very GPU-intensive. Low-power devices usually have trouble with it. Taken from Playcanvas website: http://apps.playcanvas.com/will/doom3/gangnamstyle
     </description>
